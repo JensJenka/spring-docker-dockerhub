@@ -227,7 +227,7 @@ aws ecr get-login-password --region eu-west-1 | docker login --username AWS --pa
 
 ##  Push et container image til dit ECR repository
 
-Eksempel:
+Eksempel: lol
 ```sh
 
 docker build -t <ditt tagnavn> .
